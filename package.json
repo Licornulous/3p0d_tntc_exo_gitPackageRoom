@@ -1,8 +1,8 @@
 ﻿{
-  "name": "be.tripod.room",
-  "displayName": "tripod room",
+  "name": "be.tripod.helloroom",
+  "displayName": "Tripod Room Test Of Doom",
   "version": "0.0.1",
-  "unity": "2019.3",
+  "unity": "2018.1",
   "description": "this is a room",
   "keywords": ["Script","Tool"],
   "category": "Script",
